@@ -1,0 +1,16 @@
+getwd
+getwd()
+getwd()
+myfunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+ls
+myfunction()
+ls()
+ls()
+source("myfunction.R")
+ls()
+second
+second(4)
+second(4:10)
